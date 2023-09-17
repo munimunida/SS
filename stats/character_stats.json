@@ -19,8 +19,8 @@
     },
     "ammostats": {
       "shotspeed": 10,
-      "amount": 3,
-      "reflect": 1
+      "amount": 6,
+      "reflect": 2
     }
   },
   "keyname": {
