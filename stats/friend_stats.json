@@ -12,6 +12,19 @@
       "shotct": 2 
     }
   },
+  "enemy1": {
+    "basestats": {
+      "hp": 10,
+      "attack": 5,
+      "movespeed": 5
+    },
+    "ammostats": {
+      "shotspeed": 5,
+      "amount": 3,
+      "reflect": 1,
+      "shotct": 3 
+    }
+  },
   "keyname": {
     "basestats": {
       "hp": 20,
