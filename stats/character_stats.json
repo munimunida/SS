@@ -8,7 +8,8 @@
     "ammostats": {
       "shotspeed": 10,
       "amount": 5,
-      "reflect": 2
+      "reflect": 2,
+      "shotct": 2 
     }
   },
   "enemy1": {
@@ -20,7 +21,8 @@
     "ammostats": {
       "shotspeed": 10,
       "amount": 6,
-      "reflect": 2
+      "reflect": 2,
+      "shotct": 2 
     }
   },
   "keyname": {
@@ -32,7 +34,8 @@
     "ammostats": {
       "shotspeed": 10,
       "amount": 3,
-      "reflect": 1
+      "reflect": 1,
+      "shotct": 2 
     }
   }
 }
