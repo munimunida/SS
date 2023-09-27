@@ -1,41 +1,41 @@
 {
   "player": {
     "basestats": {
-      "hp": 20,
-      "attack": 10,
-      "movespeed": 20
+      "hp": 20.0,
+      "attack": 10.0,
+      "movespeed": 20.0
     },
     "ammostats": {
-      "shotspeed": 10,
+      "shotspeed": 10.0,
       "amount": 5,
       "reflect": 2,
-      "shotct": 2 
+      "shotct": 2.0 
     }
   },
   "enemy1": {
     "basestats": {
-      "hp": 20,
-      "attack": 10,
-      "movespeed": 20
+      "hp": 20.0,
+      "attack": 10.0,
+      "movespeed": 20.0
     },
     "ammostats": {
-      "shotspeed": 10,
+      "shotspeed": 10.0,
       "amount": 6,
       "reflect": 2,
-      "shotct": 2 
+      "shotct": 2.0 
     }
   },
   "keyname": {
     "basestats": {
-      "hp": 20,
-      "attack": 10,
-      "movespeed": 20
+      "hp": 20.0,
+      "attack": 10.0,
+      "movespeed": 20.0
     },
     "ammostats": {
-      "shotspeed": 10,
+      "shotspeed": 10.0,
       "amount": 3,
       "reflect": 1,
-      "shotct": 2 
+      "shotct": 2.0 
     }
   }
 }
