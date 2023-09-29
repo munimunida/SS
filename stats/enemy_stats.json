@@ -10,6 +10,12 @@
       "amount": 3,
       "reflect": 1,
       "shotct": 3 
+    },
+    "AIstats": {
+      "shotspeed": 5,
+      "amount": 3,
+      "reflect": 1,
+      "shotct": 3 
     }
   },
   "enemy": {
@@ -23,6 +29,12 @@
       "amount": 3,
       "reflect": 1,
       "shotct": 2 
+    },
+    "AIstats": {
+      "attackrange": 5,
+      "amount": 3,
+      "reflect": 1,
+      "shotct": 3 
     }
   }
 }
