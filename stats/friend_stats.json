@@ -12,14 +12,14 @@
       "shotct": 2
     },
     "AIstats": {
-      "enemy_amount_power": 1.0,
-      "friend_amount_power": 1.0,
-      "enemy_skill_amount_power": 1.0,
-      "friend_skill_amount_power": 1.0,
-      "enemy_near_power": 1.0,
-      "friend_near_power": 1.0,
-      "enemy_near_amount_power": 1.0,
-      "friend_near_amount_power": 1.0
+      "enemy_amount_power": 2.0,
+      "friend_amount_power": 2.0,
+      "enemy_skill_amount_power": 2.0,
+      "friend_skill_amount_power": 2.0,
+      "enemy_near_power": 2.0,
+      "friend_near_power": 2.0,
+      "enemy_near_amount_power": 2.0,
+      "friend_near_amount_power": 2.0
     }
   },
   "enemy1": {
