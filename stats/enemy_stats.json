@@ -9,14 +9,15 @@
       "shotspeed": 5,
       "amount": 3,
       "reflect": 1,
-      "shotct": 3, 
-      "test": 0.1
+      "shotct": 3
     },
     "AIstats": {
-      "shotspeed": 5,
-      "amount": 3,
-      "reflect": 1,
-      "shotct": 3 
+      "enemy_amount_power": 1.0,
+      "friend_amount_power": 1.0,
+      "enemy_skill_amount_power": 1.0,
+      "friend_skill_amount_power": 1.0,
+      "enemy_near_power": 1.0,
+      "friend_near_power": 1.0
     }
   },
   "enemy": {
@@ -33,10 +34,12 @@
       "test": 0.1
     },
     "AIstats": {
-      "attackrange": 5,
-      "amount": 3,
-      "reflect": 1,
-      "shotct": 3 
+      "enemy_amount_power": 1.0,
+      "friend_amount_power": 1.0,
+      "enemy_skill_amount_power": 1.0,
+      "friend_skill_amount_power": 1.0,
+      "enemy_near_power": 1.0,
+      "friend_near_power": 1.0
     }
   }
 }
