@@ -10,6 +10,16 @@
       "amount": 5,
       "reflect": 2,
       "shotct": 2
+    },
+    "AIstats": {
+      "enemy_amount_power": 1.0,
+      "friend_amount_power": 1.0,
+      "enemy_skill_amount_power": 1.0,
+      "friend_skill_amount_power": 1.0,
+      "enemy_near_power": 1.0,
+      "friend_near_power": 1.0,
+      "enemy_near_amount_power": 1.0,
+      "friend_near_amount_power": 1.0
     }
   },
   "enemy1": {
@@ -23,6 +33,16 @@
       "amount": 3,
       "reflect": 1,
       "shotct": 3 
+    },
+    "AIstats": {
+      "enemy_amount_power": 1.0,
+      "friend_amount_power": 1.0,
+      "enemy_skill_amount_power": 1.0,
+      "friend_skill_amount_power": 1.0,
+      "enemy_near_power": 1.0,
+      "friend_near_power": 1.0,
+      "enemy_near_amount_power": 1.0,
+      "friend_near_amount_power": 1.0
     }
   },
   "keyname": {
@@ -36,6 +56,16 @@
       "amount": 3,
       "reflect": 1,
       "shotct": 2 
+    },
+    "AIstats": {
+      "enemy_amount_power": 1.0,
+      "friend_amount_power": 1.0,
+      "enemy_skill_amount_power": 1.0,
+      "friend_skill_amount_power": 1.0,
+      "enemy_near_power": 1.0,
+      "friend_near_power": 1.0,
+      "enemy_near_amount_power": 1.0,
+      "friend_near_amount_power": 1.0
     }
   }
 }
