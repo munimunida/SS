@@ -9,7 +9,8 @@
       "shotspeed": 5,
       "amount": 3,
       "reflect": 1,
-      "shotct": 3 
+      "shotct": 3, 
+      "test": 0.1
     },
     "AIstats": {
       "shotspeed": 5,
@@ -28,7 +29,8 @@
       "shotspeed": 10,
       "amount": 3,
       "reflect": 1,
-      "shotct": 2 
+      "shotct": 2,
+      "test": 0.1
     },
     "AIstats": {
       "attackrange": 5,
