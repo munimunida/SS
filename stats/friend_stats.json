@@ -22,7 +22,8 @@
       "friend_near_amount_power": 2.0
     }
   },
-  "enemy1": {
+  "enemy": {
+    "lore": "supporter"
     "basestats": {
       "hp": 10,
       "attack": 5,
