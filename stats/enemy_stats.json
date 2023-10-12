@@ -23,6 +23,7 @@
     }
   },
   "enemy": {
+    "lore": "attacker"
     "basestats": {
       "hp": 20,
       "attack": 10,
