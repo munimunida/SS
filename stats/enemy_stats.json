@@ -1,5 +1,7 @@
 {
   "enemy1": {
+    "faction": "enemy",
+    "lore": "attacker"
     "basestats": {
       "hp": 10,
       "attack": 5,
@@ -23,6 +25,7 @@
     }
   },
   "enemy": {
+    "faction": "enemy",
     "lore": "attacker"
     "basestats": {
       "hp": 20,
