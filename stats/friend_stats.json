@@ -1,5 +1,7 @@
 {
   "player": {
+    "faction": "friend",
+    "lore": "normal"
     "basestats": {
       "hp": 20,
       "attack": 10,
@@ -23,6 +25,7 @@
     }
   },
   "enemy": {
+    "faction": "friend",
     "lore": "supporter"
     "basestats": {
       "hp": 10,
@@ -47,6 +50,8 @@
     }
   },
   "keyname": {
+    "faction": "friend",
+    "lore": "normal"
     "basestats": {
       "hp": 20,
       "attack": 10,
