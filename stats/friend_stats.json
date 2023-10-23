@@ -11,7 +11,7 @@
       "shotspeed": 10,
       "amount": 5,
       "reflect": 2,
-      "shotct": 2
+      "shotct": 2.0
     },
     "AIstats": {
       "enemy_amount_power": 2.0,
@@ -55,7 +55,7 @@
       "shotspeed": 5,
       "amount": 3,
       "reflect": 1,
-      "shotct": 3 
+      "shotct": 3.0 
     },
     "AIstats": {
       "enemy_amount_power": 1.0,
@@ -99,7 +99,7 @@
       "shotspeed": 10,
       "amount": 3,
       "reflect": 1,
-      "shotct": 2 
+      "shotct": 2.0 
     },
     "AIstats": {
       "enemy_amount_power": 1.0,
