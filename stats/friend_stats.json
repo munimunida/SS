@@ -22,6 +22,25 @@
       "friend_near_power": 2.0,
       "enemy_near_amount_power": 2.0,
       "friend_near_amount_power": 2.0
+      "mainstate": {
+        "Patrol": 1.0,
+        "Attack": 1.0,
+        "Escape": 1.0,
+        "Stealth": 1.0,
+        "Join": 1.0
+      },
+      "substate": {
+        "Patrol_PointsRandom": 1.0,
+        "Patrol_FriendTogether": 1.0,
+        "Attack_GoEnemy": 1.0,
+        "Attack_DistanceEnemy": 1.0,
+        "Escape_LeaveEnemy": 1.0,
+        "Escape_GoWall": 1.0,
+        "Escape_DodgeTama": 1.0,
+        "Stealth_GoNearWall": 1.0,
+        "Join_GoFriendToRide": 1.0,
+        "Join_GoFriendTogether": 1.0
+      }
     }
   },
   "enemy": {
@@ -47,6 +66,25 @@
       "friend_near_power": 1.0,
       "enemy_near_amount_power": 1.0,
       "friend_near_amount_power": 1.0
+      "mainstate": {
+        "Patrol": 1.0,
+        "Attack": 1.0,
+        "Escape": 1.0,
+        "Stealth": 1.0,
+        "Join": 1.0
+      },
+      "substate": {
+        "Patrol_PointsRandom": 1.0,
+        "Patrol_FriendTogether": 1.0,
+        "Attack_GoEnemy": 1.0,
+        "Attack_DistanceEnemy": 1.0,
+        "Escape_LeaveEnemy": 1.0,
+        "Escape_GoWall": 1.0,
+        "Escape_DodgeTama": 1.0,
+        "Stealth_GoNearWall": 1.0,
+        "Join_GoFriendToRide": 1.0,
+        "Join_GoFriendTogether": 1.0
+      }
     }
   },
   "keyname": {
@@ -72,6 +110,25 @@
       "friend_near_power": 1.0,
       "enemy_near_amount_power": 1.0,
       "friend_near_amount_power": 1.0
+      "mainstate": {
+        "Patrol": 1.0,
+        "Attack": 1.0,
+        "Escape": 1.0,
+        "Stealth": 1.0,
+        "Join": 1.0
+      },
+      "substate": {
+        "Patrol_PointsRandom": 1.0,
+        "Patrol_FriendTogether": 1.0,
+        "Attack_GoEnemy": 1.0,
+        "Attack_DistanceEnemy": 1.0,
+        "Escape_LeaveEnemy": 1.0,
+        "Escape_GoWall": 1.0,
+        "Escape_DodgeTama": 1.0,
+        "Stealth_GoNearWall": 1.0,
+        "Join_GoFriendToRide": 1.0,
+        "Join_GoFriendTogether": 1.0
+      }
     }
   }
 }
